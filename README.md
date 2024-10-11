@@ -1,3 +1,3 @@
 # Magazine
 
-<img width="516" alt="Screenshot 2024-06-26 at 2 22 30 PM" src="https://github.com/user-attachments/assets/d813dd3a-2302-43d9-ad17-44d153cb79a0">
+<img width="1436" alt="Screenshot 2024-10-10 at 8 33 52 PM" src="https://github.com/user-attachments/assets/9966bff3-e2ef-430b-b75c-5c5fe1df7e23">
